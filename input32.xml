@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <S1>
+    <subelement>Value 1</subelement>
+    <subelement>Value 2</subelement>
+  </S1>
+  <S1>
+    <subelement>Value 3</subelement>
+  </S1>
+  <S1>
+    <subelement>Value 4</subelement>
+    <subelement>Value 5</subelement>
+    <subelement>Value 6</subelement>
+  </S1>
+  <S3>
+    <subelement>Value 7</subelement>
+  </S3>
+</root>

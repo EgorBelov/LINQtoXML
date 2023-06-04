@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<element year="2023" month="6" day="4">Element 1</element>
+	<element year="2022" month="12">Element 2</element>
+	<element>Element 3</element>
+</root>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Prices>
+	<Лидер>
+		<price street="ул.Чехова" brand="92">2200</price>
+		<price street="ул.Чехова" brand="95">2400</price>
+		<price street="ул.Пушкина" brand="92">2100</price>
+		<price street="ул.Пушкина" brand="95">2300</price>
+		<price street="ул.Лермонтова" brand="92">2110</price>
+		<price street="ул.Лермонтова" brand="95">2350</price>
+		<price street="ул.Чехова" brand="98">2600</price>
+		<price street="ул.Пушкина" brand="98">2500</price>
+		<price street="ул.Лермонтова" brand="98">2550</price>
+	</Лидер>
+	<НефтеГаз>
+		<price street="ул.Чехова" brand="92">2100</price>
+		<price street="ул.Чехова" brand="95">2300</price>
+		<price street="ул.Пушкина" brand="92">2050</price>
+		<price street="ул.Пушкина" brand="95">2250</price>
+		<price street="ул.Лермонтова" brand="92">2120</price>
+		<price street="ул.Лермонтова" brand="95">2320</price>
+		<price street="ул.Чехова" brand="98">2450</price>
+		<price street="ул.Пушкина" brand="98">2400</price>
+		<price street="ул.Лермонтова" brand="98">2420</price>
+	</НефтеГаз>
+</Prices>

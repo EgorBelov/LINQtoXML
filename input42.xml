@@ -1,0 +1,10 @@
+﻿<root>
+	<element1>
+		<child1 attr1="1,23" attr2="2,34" />
+		<child2 attr1="3,45" attr2="4,56" />
+	</element1>
+	<element2>
+		<child3 attr1="5,67" attr2="6,78" />
+		<child4 />
+	</element2>
+</root>

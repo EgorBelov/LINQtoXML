@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<records>
+	<record>
+		<id>10</id>
+		<date>2000-05-01T00:00:00</date>
+		<time>PT5H13M</time>
+	</record>
+	<record>
+		<id>11</id>
+		<date>2002-07-01T00:00:00</date>
+		<time>PT5H13M</time>
+	</record>
+	<record>
+		<id>12</id>
+		<date>2022-05-03T00:00:00</date>
+		<time>PT6H10M</time>
+	</record>
+</records>
